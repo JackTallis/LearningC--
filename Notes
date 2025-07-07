@@ -1,0 +1,29 @@
+C++ development
+
+Step 1: Define the problem that you would like to solve (https://www.learncpp.com/cpp-tutorial/introduction-to-cpp-development/)
+
+Examples
+    “I want to write a program that will allow me to enter many numbers, then calculates the average.”
+    “I want to write a program that generates a 2d maze and lets the user navigate through it. The user wins if they reach the end.”
+    “I want to write a program that reads in a file of stock prices and predicts whether the stock will go up or down.”-
+    "I want to code a game that does blah blah blah"
+
+Step 2: Determine how you are going to solve the problem
+
+This is the “how” step, where you determine how you are going to solve the problem you came up with in step 1.
+It is also the step that is most neglected in software development. The crux of the issue is that there are many ways to solve a problem -- however, some of these solutions are good and some of them are bad.
+Too often, a programmer will get an idea, sit down, and immediately start coding a solution. This often generates a solution that falls into the bad category.
+
+Typically, good solutions have the following characteristics:
+
+    They are straightforward (not overly complicated or confusing).
+    They are well documented (especially around any assumptions being made or limitations).
+    They are built modularly, so parts can be reused or changed later without impacting other parts of the program.
+    They can recover gracefully or give useful error messages when something unexpected happens.
+
+Step 3: Write a program
+
+In order to write the program, we need two things: First, we need knowledge of a programming language -- that’s what these tutorials are for! Second, we need a text editor to write and save our C++ programs.
+The set of C++ instructions that we input into the text editor is called the program’s source code (often shortened to just code).
+It’s possible to write a program using any text editor you want, even something as simple as Windows’ notepad or Unix’s vi or pico.
+
