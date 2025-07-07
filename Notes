@@ -63,3 +63,29 @@ Because there are multiple steps involved, the term building is often used to re
 A specific executable produced as the result of building is sometimes called a build.
 
 Steps 6 & 7: Testing and Debugging
+
+Once you can run your program, then you can test it. Testing is the process of assessing whether your software is working as expected.
+Basic testing typically involves trying different input combinations to ensure the software behaves correctly in different cases.
+
+If the program does not behave as expected, then you will have to do some debugging, which is the process of finding and fixing programming errors.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Next section: Objects and Variables
+
+1) Data and values
+
+A program can acquire data to work with in many ways: from a file or database, over a network, from the user providing input on a keyboard, or from the programmer putting data directly into the source code of the program itself.
+
+In programming, a single piece of data is called a value (sometimes called a data value). Common examples of values include:
+    Numbers (e.g. 5 or -6.7).
+    Characters, which are placed between single-quotes (e.g. 'H' or '$'). Only a single symbol may be used.
+
+2) Random Access Memory
+
+The main memory in a computer is called Random Access Memory. When we run a program, the operating system loads the program into RAM. Any data that is hardcoded into the program itself is loaded at this point.
+
+The operating system also reserves some additional RAM for the program to use while it is running.
+Common uses for this memory are to store values entered by the user, to store data read in from a file or network, or to store values calculated while the program is running
+
+3) Objects and variables
